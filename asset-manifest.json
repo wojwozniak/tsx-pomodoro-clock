@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tsx-pomodoro-clock/static/css/main.1380e211.css",
+    "main.css": "/tsx-pomodoro-clock/static/css/main.d06949b5.css",
     "main.js": "/tsx-pomodoro-clock/static/js/main.056dfecf.js",
     "index.html": "/tsx-pomodoro-clock/index.html",
-    "main.1380e211.css.map": "/tsx-pomodoro-clock/static/css/main.1380e211.css.map",
+    "main.d06949b5.css.map": "/tsx-pomodoro-clock/static/css/main.d06949b5.css.map",
     "main.056dfecf.js.map": "/tsx-pomodoro-clock/static/js/main.056dfecf.js.map"
   },
   "entrypoints": [
-    "static/css/main.1380e211.css",
+    "static/css/main.d06949b5.css",
     "static/js/main.056dfecf.js"
   ]
 }
